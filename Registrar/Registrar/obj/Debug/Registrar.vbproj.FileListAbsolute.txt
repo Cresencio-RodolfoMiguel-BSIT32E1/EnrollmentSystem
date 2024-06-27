@@ -1,0 +1,93 @@
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.exe.config
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.exe
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.pdb
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.xml
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmEnrollment.resources
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmManageSubjects.resources
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmRegistrarDashboard.resources
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.Resources.resources
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.exe
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.xml
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.pdb
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmActivityLogs.resources
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmLogin.resources
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.exe.config
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.exe
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.pdb
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.xml
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmActivityLogs.resources
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmEnrollment.resources
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmLogin.resources
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmManageSubjects.resources
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmRegistrarDashboard.resources
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.Resources.resources
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.GenerateResource.cache
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.exe
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.xml
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.pdb
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.exe.config
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.exe
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.pdb
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.xml
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmActivityLogs.resources
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmEnrollment.resources
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmLogin.resources
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmManageSubjects.resources
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmRegistrarDashboard.resources
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.Resources.resources
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.exe
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.xml
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.pdb
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmSection.resources
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmManageStudent.resources
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmManageStudent.resources
+C:\Users\Windows\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmSection.resources
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmManageStudent.resources
+C:\Users\USER\Downloads\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmSection.resources
+C:\Users\USER\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmStudentsRecord.resources
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.exe.config
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.exe
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.pdb
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.xml
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmActivityLogs.resources
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmEnrollment.resources
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmLogin.resources
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmManageSubjects.resources
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmRegistrarDashboard.resources
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmManageStudent.resources
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmSection.resources
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmStudentsRecord.resources
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.Resources.resources
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.exe
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.xml
+C:\Users\STUDENT\Desktop\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.pdb
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.exe.config
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.exe
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.pdb
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\bin\Debug\Registrar.xml
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.AssemblyReference.cache
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmActivityLogs.resources
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmEnrollment.resources
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmLogin.resources
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmManageSubjects.resources
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmRegistrarDashboard.resources
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmManageStudent.resources
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmSection.resources
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.frmStudentsRecord.resources
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.Resources.resources
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.GenerateResource.cache
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.vbproj.CoreCompileInputs.cache
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.exe
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.xml
+C:\Users\tabin\Downloads\Official Enrollment System 34\Official Enrollment System\Registrar\Registrar\obj\Debug\Registrar.pdb
