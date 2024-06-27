@@ -1,0 +1,8 @@
+C:\Users\Acer\OneDrive\Desktop\enrollment\Enrollment System\Assessment\obj\Debug\Assessment.vbproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\enrollment\Enrollment System\Assessment\obj\Debug\Assessment.Form1.resources
+C:\Users\Acer\OneDrive\Desktop\enrollment\Enrollment System\Assessment\obj\Debug\Assessment.frmAssessment.resources
+C:\Users\Acer\OneDrive\Desktop\enrollment\Enrollment System\Assessment\obj\Debug\Assessment.frmStudentList.resources
+C:\Users\Acer\OneDrive\Desktop\enrollment\Enrollment System\Assessment\obj\Debug\Assessment.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\enrollment\Enrollment System\Assessment\obj\Debug\Assessment.PrintAssessment.resources
+C:\Users\Acer\OneDrive\Desktop\enrollment\Enrollment System\Assessment\obj\Debug\Assessment.vbproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\enrollment\Enrollment System\Assessment\obj\Debug\Assessment.vbproj.CoreCompileInputs.cache
