@@ -1,0 +1,24 @@
+﻿Imports System.Data.OleDb
+Imports System.Runtime.Remoting.Contexts
+
+Public Module ActivityLogs
+
+    Public Sub ActLogs(Action As String)
+        Call connection()
+
+        Dim time As String = DateTime.Now.ToString("MM-dd-yyyy HH:mm:ss")
+        Dim username As String = Admin.tssUsername.Text
+        Dim role As String = Admin.tssRole.Text
+
+        sql = "INSERT INTO tblActivityLogs (Username, Role, [Activity], [DateTime]) VALUES (@Username, @Role, @Activity, @DateTime)"
+        cmd = New OleDbCommand(sql, cn)
+        With cmd
+            .Parameters.AddWithValue("@Username", username)
+            .Parameters.AddWithValue("@Role", role)
+            .Parameters.AddWithValue("@Activity", Action)
+            .Parameters.AddWithValue("@DateTime", time)
+            .ExecuteNonQuery()
+        End With
+    End Sub
+
+End Module
