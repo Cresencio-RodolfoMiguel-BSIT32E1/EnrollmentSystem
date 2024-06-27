@@ -1,0 +1,16 @@
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\bin\Debug\Finance.exe.config
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\bin\Debug\Finance.exe
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\bin\Debug\Finance.pdb
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\bin\Debug\Finance.xml
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.vbproj.AssemblyReference.cache
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.Resources.resources
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.vbproj.GenerateResource.cache
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.vbproj.CoreCompileInputs.cache
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.exe
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.xml
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.pdb
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.financedashboard.resources
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.UCStudentlist.resources
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.receipt.resources
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.Login.resources
+D:\aral\3rd yr32E1\systems integration and architecture\code\Finance\Finance\obj\Debug\Finance.UCActLogs.resources
