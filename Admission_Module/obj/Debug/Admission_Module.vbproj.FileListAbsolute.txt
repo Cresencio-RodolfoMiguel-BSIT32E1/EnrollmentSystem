@@ -1,0 +1,13 @@
+C:\Users\Dexter\Desktop\Admission_Module\bin\Debug\Admission_Module.exe.config
+C:\Users\Dexter\Desktop\Admission_Module\bin\Debug\Admission_Module.exe
+C:\Users\Dexter\Desktop\Admission_Module\bin\Debug\Admission_Module.pdb
+C:\Users\Dexter\Desktop\Admission_Module\bin\Debug\Admission_Module.xml
+C:\Users\Dexter\Desktop\Admission_Module\obj\Debug\Admission_Module.vbproj.AssemblyReference.cache
+C:\Users\Dexter\Desktop\Admission_Module\obj\Debug\Admission_Module.Form1.resources
+C:\Users\Dexter\Desktop\Admission_Module\obj\Debug\Admission_Module.Resources.resources
+C:\Users\Dexter\Desktop\Admission_Module\obj\Debug\Admission_Module.RegistrationForm.resources
+C:\Users\Dexter\Desktop\Admission_Module\obj\Debug\Admission_Module.vbproj.GenerateResource.cache
+C:\Users\Dexter\Desktop\Admission_Module\obj\Debug\Admission_Module.vbproj.CoreCompileInputs.cache
+C:\Users\Dexter\Desktop\Admission_Module\obj\Debug\Admission_Module.exe
+C:\Users\Dexter\Desktop\Admission_Module\obj\Debug\Admission_Module.xml
+C:\Users\Dexter\Desktop\Admission_Module\obj\Debug\Admission_Module.pdb
